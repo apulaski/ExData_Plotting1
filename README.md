@@ -1,3 +1,7 @@
+## Notes for testers:
+1. update the working directory in the "setwd()" command at the top of each R script for your local working directory.
+2. File prep code existing in each R script, but only really needs to be run once.  Once the "subset_file" dataframe is created, this dataframe can be used for all plots.
+
 ## Introduction
 
 This assignment uses data from
